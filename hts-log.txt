@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 08 Sep 2024 00:04:31 at https://guns.lol/lucasm7 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "HyperBrowser (Cray; I; OrganicOS 9.7.42beta-27)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://guns.lol/lucasm7 -O1 "C:\Users\gamap\Desktop\trimensal\teste" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:04:34	Warning: 	File not parsed, looks like binary: https://guns.lol/robots.txt
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 26 links scanned, 25 files written (1533607 bytes overall), 26 files updated [699592 bytes received at 53814 bytes/sec], 1185518 bytes transferred using HTTP compression in 23 files, ratio 27%, 4.8 requests per connection
+(No errors, 1 warnings, 0 messages)

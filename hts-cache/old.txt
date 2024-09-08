@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:03:53	44/44	---MC-	307	error ('Temporary%20Redirect')	text/html	date:Sun,%2008%20Sep%202024%2003:03:49%20GMT	https://guns.lol/lucasm7	C:/Users/gamap/Desktop/trimensal/teste/guns.lol/lucasm7.0.delayed	(from )
